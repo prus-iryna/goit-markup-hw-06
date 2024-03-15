@@ -233,9 +233,6 @@ body{
     gap: 24px;
     flex-wrap: wrap;
 }
-.benefits-list-title{
-    margin-bottom: 8px;
-}
 .benefits-list-item{
     width: calc((100% - 72px) / 4);
 }
@@ -245,6 +242,7 @@ body{
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        margin-bottom: 8px;
 }
 .benefits-list-text{
         font-size: 16px;
