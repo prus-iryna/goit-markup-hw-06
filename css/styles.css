@@ -108,7 +108,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  padding: 16px 0;
+  padding: 24px;
+  margin-right: 120px;
 }
 
 .logo-text {
@@ -370,7 +371,6 @@ body {
 
 /* ============== Hero Section styles ==============*/
 .hero {
-  max-width: 320px;
   background: #2e2f42;
   padding: 72px 0;
   background-image: linear-gradient(
@@ -431,7 +431,6 @@ body {
 }
 @media only screen and (min-width: 768px) {
   .hero {
-    max-width: 768px;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
